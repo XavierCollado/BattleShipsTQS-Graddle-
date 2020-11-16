@@ -1,5 +1,9 @@
 package BattleShip_WithCoverage;
 
+
+
+import java.util.Scanner;
+
 import BattleShip_WithCoverage.CellConstants;
 
 /**
